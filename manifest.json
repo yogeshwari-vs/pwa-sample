@@ -3,7 +3,6 @@
     "short_name": "PWA_TE",
     "start_url": "index.html",
     "display": "fullscreen",
-    "orientation": "primary",
     "icons": [
         {
             "src" : "Pictures/pic1.PNG",
