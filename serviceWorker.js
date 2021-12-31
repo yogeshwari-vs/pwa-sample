@@ -3,10 +3,11 @@
 
 // Script - runs on background in separate thread
 
-const staticPWATut = "pwa-tut-examp-v1"
+const staticPWATut = "pwa-tut-site-v1"
 
 const assets = [
     "/",
+    "/index.html",
     "/style.css",
     "/app.jss",
     "/Pictures/pic1.PNG",
@@ -24,7 +25,7 @@ self.addEventListener("install", installEvent => {
 self.addEventListener("fetch", fetchEvent => {
     fetchEvent.respondWith(
         caches.match(fetchEvent.request).then(res=>{
-            return res || fetch(fetch.Eventrequest)
+            return res || fetch(fetchEventrequest)
         })
     )
 })
