@@ -1,0 +1,16 @@
+{
+    "name": "PWA Tutorial example",
+    "short_name": "PWA_TE",
+    "start_url": "index.html",
+    "orintation": "primary",
+    "icons": [
+        {
+            "src" : "Pictures/pic1.PNG",
+            "type": "image/PNG", "sizes": "50x50"
+        },
+        {
+            "src" : "Pictures/pic2.PNG",
+            "type": "image/PNG", "sizes": "100x100"
+        }
+    ]
+}
