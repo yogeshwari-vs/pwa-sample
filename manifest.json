@@ -6,11 +6,11 @@
     "icons": [
         {
             "src" : "Pictures/pic1.PNG",
-            "type": "image/PNG", "sizes": "50x50"
+            "type": "image/PNG", "sizes": "620x382"
         },
         {
             "src" : "Pictures/pic2.PNG",
-            "type": "image/PNG", "sizes": "100x100"
+            "type": "image/PNG", "sizes": "1366x674"
         }
     ]
 }
