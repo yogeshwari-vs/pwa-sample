@@ -2,7 +2,7 @@
     "name": "PWA Tutorial example",
     "short_name": "PWA_TE",
     "start_url": "index.html",
-    "display": "standalone",
+    "display": "fullscreen",
     "orientation": "primary",
     "icons": [
         {
